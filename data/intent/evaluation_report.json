@@ -1,0 +1,367 @@
+{
+  "model": "TF-IDF + sparse one-hot mood/intensity + OneVsRest LogisticRegression",
+  "selected_c": 0.25,
+  "validation_macro_f1_by_c": {
+    "0.25": 0.7179820822302987,
+    "0.5": 0.7179820822302987,
+    "1.0": 0.7179820822302987,
+    "2.0": 0.7179820822302987,
+    "4.0": 0.7179820822302987
+  },
+  "training_example_count": 432,
+  "validation_example_count": 27,
+  "test_example_count": 27,
+  "class_coverage": {
+    "Sad": 144,
+    "Party": 216,
+    "Mass": 180,
+    "Romantic": 96,
+    "Old": 96,
+    "Devotional": 180
+  },
+  "training_metrics": {
+    "subset_accuracy": 1.0,
+    "precision_micro": 1.0,
+    "recall_micro": 1.0,
+    "f1_micro": 1.0,
+    "precision_macro": 1.0,
+    "recall_macro": 1.0,
+    "f1_macro": 1.0,
+    "per_genre": {
+      "Sad": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "support": 144,
+        "confusion": {
+          "tn": 288,
+          "fp": 0,
+          "fn": 0,
+          "tp": 144
+        }
+      },
+      "Party": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "support": 216,
+        "confusion": {
+          "tn": 216,
+          "fp": 0,
+          "fn": 0,
+          "tp": 216
+        }
+      },
+      "Mass": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "support": 180,
+        "confusion": {
+          "tn": 252,
+          "fp": 0,
+          "fn": 0,
+          "tp": 180
+        }
+      },
+      "Romantic": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "support": 96,
+        "confusion": {
+          "tn": 336,
+          "fp": 0,
+          "fn": 0,
+          "tp": 96
+        }
+      },
+      "Old": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "support": 96,
+        "confusion": {
+          "tn": 336,
+          "fp": 0,
+          "fn": 0,
+          "tp": 96
+        }
+      },
+      "Devotional": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "support": 180,
+        "confusion": {
+          "tn": 252,
+          "fp": 0,
+          "fn": 0,
+          "tp": 180
+        }
+      }
+    }
+  },
+  "test_metrics": {
+    "subset_accuracy": 0.37037037037037035,
+    "precision_micro": 1.0,
+    "recall_micro": 0.6666666666666666,
+    "f1_micro": 0.8,
+    "precision_macro": 1.0,
+    "recall_macro": 0.6436480186480186,
+    "f1_macro": 0.7781575149996202,
+    "per_genre": {
+      "Sad": {
+        "precision": 1.0,
+        "recall": 0.75,
+        "f1": 0.8571428571428571,
+        "support": 8,
+        "confusion": {
+          "tn": 19,
+          "fp": 0,
+          "fn": 2,
+          "tp": 6
+        }
+      },
+      "Party": {
+        "precision": 1.0,
+        "recall": 0.6923076923076923,
+        "f1": 0.8181818181818182,
+        "support": 13,
+        "confusion": {
+          "tn": 14,
+          "fp": 0,
+          "fn": 4,
+          "tp": 9
+        }
+      },
+      "Mass": {
+        "precision": 1.0,
+        "recall": 0.7272727272727273,
+        "f1": 0.8421052631578947,
+        "support": 11,
+        "confusion": {
+          "tn": 16,
+          "fp": 0,
+          "fn": 3,
+          "tp": 8
+        }
+      },
+      "Romantic": {
+        "precision": 1.0,
+        "recall": 0.5,
+        "f1": 0.6666666666666666,
+        "support": 6,
+        "confusion": {
+          "tn": 21,
+          "fp": 0,
+          "fn": 3,
+          "tp": 3
+        }
+      },
+      "Old": {
+        "precision": 1.0,
+        "recall": 0.5,
+        "f1": 0.6666666666666666,
+        "support": 6,
+        "confusion": {
+          "tn": 21,
+          "fp": 0,
+          "fn": 3,
+          "tp": 3
+        }
+      },
+      "Devotional": {
+        "precision": 1.0,
+        "recall": 0.6923076923076923,
+        "f1": 0.8181818181818182,
+        "support": 13,
+        "confusion": {
+          "tn": 14,
+          "fp": 0,
+          "fn": 4,
+          "tp": 9
+        }
+      }
+    }
+  },
+  "baseline_comparison_test": {
+    "rule_based_mood_only": {
+      "subset_accuracy": 0.1111111111111111,
+      "precision_micro": 0.6166666666666667,
+      "recall_micro": 0.6491228070175439,
+      "f1_micro": 0.6324786324786325,
+      "precision_macro": 0.6296296296296297,
+      "recall_macro": 0.6584110334110334,
+      "f1_macro": 0.626094276094276,
+      "per_genre": {
+        "Sad": {
+          "precision": 0.5,
+          "recall": 0.75,
+          "f1": 0.6,
+          "support": 8,
+          "confusion": {
+            "tn": 13,
+            "fp": 6,
+            "fn": 2,
+            "tp": 6
+          }
+        },
+        "Party": {
+          "precision": 0.8333333333333334,
+          "recall": 0.7692307692307693,
+          "f1": 0.8,
+          "support": 13,
+          "confusion": {
+            "tn": 12,
+            "fp": 2,
+            "fn": 3,
+            "tp": 10
+          }
+        },
+        "Mass": {
+          "precision": 0.7777777777777778,
+          "recall": 0.6363636363636364,
+          "f1": 0.7,
+          "support": 11,
+          "confusion": {
+            "tn": 14,
+            "fp": 2,
+            "fn": 4,
+            "tp": 7
+          }
+        },
+        "Romantic": {
+          "precision": 0.3333333333333333,
+          "recall": 0.6666666666666666,
+          "f1": 0.4444444444444444,
+          "support": 6,
+          "confusion": {
+            "tn": 13,
+            "fp": 8,
+            "fn": 2,
+            "tp": 4
+          }
+        },
+        "Old": {
+          "precision": 0.6666666666666666,
+          "recall": 0.6666666666666666,
+          "f1": 0.6666666666666666,
+          "support": 6,
+          "confusion": {
+            "tn": 19,
+            "fp": 2,
+            "fn": 2,
+            "tp": 4
+          }
+        },
+        "Devotional": {
+          "precision": 0.6666666666666666,
+          "recall": 0.46153846153846156,
+          "f1": 0.5454545454545454,
+          "support": 13,
+          "confusion": {
+            "tn": 11,
+            "fp": 3,
+            "fn": 7,
+            "tp": 6
+          }
+        }
+      }
+    },
+    "random_forest_ovr": {
+      "subset_accuracy": 0.14814814814814814,
+      "precision_micro": 1.0,
+      "recall_micro": 0.5263157894736842,
+      "f1_micro": 0.6896551724137931,
+      "precision_macro": 1.0,
+      "recall_macro": 0.5123834498834499,
+      "f1_macro": 0.6724051662132157,
+      "per_genre": {
+        "Sad": {
+          "precision": 1.0,
+          "recall": 0.375,
+          "f1": 0.5454545454545454,
+          "support": 8,
+          "confusion": {
+            "tn": 19,
+            "fp": 0,
+            "fn": 5,
+            "tp": 3
+          }
+        },
+        "Party": {
+          "precision": 1.0,
+          "recall": 0.6923076923076923,
+          "f1": 0.8181818181818182,
+          "support": 13,
+          "confusion": {
+            "tn": 14,
+            "fp": 0,
+            "fn": 4,
+            "tp": 9
+          }
+        },
+        "Mass": {
+          "precision": 1.0,
+          "recall": 0.5454545454545454,
+          "f1": 0.7058823529411765,
+          "support": 11,
+          "confusion": {
+            "tn": 16,
+            "fp": 0,
+            "fn": 5,
+            "tp": 6
+          }
+        },
+        "Romantic": {
+          "precision": 1.0,
+          "recall": 0.5,
+          "f1": 0.6666666666666666,
+          "support": 6,
+          "confusion": {
+            "tn": 21,
+            "fp": 0,
+            "fn": 3,
+            "tp": 3
+          }
+        },
+        "Old": {
+          "precision": 1.0,
+          "recall": 0.5,
+          "f1": 0.6666666666666666,
+          "support": 6,
+          "confusion": {
+            "tn": 21,
+            "fp": 0,
+            "fn": 3,
+            "tp": 3
+          }
+        },
+        "Devotional": {
+          "precision": 1.0,
+          "recall": 0.46153846153846156,
+          "f1": 0.631578947368421,
+          "support": 13,
+          "confusion": {
+            "tn": 14,
+            "fp": 0,
+            "fn": 7,
+            "tp": 6
+          }
+        }
+      }
+    }
+  },
+  "limitations": [
+    "All examples are synthetic/curated and do not represent actual listener behavior.",
+    "This small controlled holdout does not establish real-world accuracy.",
+    "Only the six manually reviewed genre labels are predicted; song-level labels remain unchanged."
+  ],
+  "corpus_counts": {
+    "train": 432,
+    "validation": 27,
+    "test": 27
+  },
+  "model_path": "C:\\Users\\dmadh\\Tunely\\Tunely\\data\\models\\intent_genre_model.joblib"
+}

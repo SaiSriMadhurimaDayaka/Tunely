@@ -1,0 +1,28 @@
+preference,mood,intensity,genres,split,intent_group
+"Please find melodies for separation and emotional loss while I feel happy, intensity mild",happy,mild,Sad;Party,validation,heartbreak
+"Please find upbeat tunes for dancing at a celebration while I feel happy, intensity moderate",happy,moderate,Party;Mass,validation,dance
+"Please find soft calming melodies for a quiet evening while I feel happy, intensity intense",happy,intense,Party;Devotional,validation,peaceful
+"Please find melodies of faith and prayer while I feel sad, intensity mild",sad,mild,Sad;Devotional,validation,devotional
+"Please find grand high impact hero entry melodies while I feel sad, intensity moderate",sad,moderate,Sad;Party;Mass,validation,powerful
+"Please find warm melodies expressing love and devotion while I feel sad, intensity intense",sad,intense,Sad;Romantic,validation,romance
+"Please find memories of vintage melodies from the past while I feel calm, intensity mild",calm,mild,Old;Devotional,validation,classic
+"Please find lonely grief filled melodies while I feel calm, intensity moderate",calm,moderate,Sad;Devotional,validation,sad
+"Please find melodies for separation and emotional loss while I feel calm, intensity intense",calm,intense,Sad;Devotional,validation,heartbreak
+"Please find upbeat tunes for dancing at a celebration while I feel energetic, intensity mild",energetic,mild,Party;Mass,validation,dance
+"Please find soft calming melodies for a quiet evening while I feel energetic, intensity moderate",energetic,moderate,Party;Mass;Devotional,validation,peaceful
+"Please find melodies of faith and prayer while I feel energetic, intensity intense",energetic,intense,Party;Mass;Devotional,validation,devotional
+"Please find grand high impact hero entry melodies while I feel stressed, intensity mild",stressed,mild,Party;Mass;Devotional,validation,powerful
+"Please find warm melodies expressing love and devotion while I feel stressed, intensity moderate",stressed,moderate,Romantic;Devotional,validation,romance
+"Please find memories of vintage melodies from the past while I feel stressed, intensity intense",stressed,intense,Old;Devotional,validation,classic
+"Please find lonely grief filled melodies while I feel romantic, intensity mild",romantic,mild,Sad;Romantic,validation,sad
+"Please find melodies for separation and emotional loss while I feel romantic, intensity moderate",romantic,moderate,Sad;Romantic,validation,heartbreak
+"Please find upbeat tunes for dancing at a celebration while I feel romantic, intensity intense",romantic,intense,Party;Mass;Romantic,validation,dance
+"Please find soft calming melodies for a quiet evening while I feel neutral, intensity mild",neutral,mild,Devotional,validation,peaceful
+"Please find melodies of faith and prayer while I feel neutral, intensity moderate",neutral,moderate,Devotional,validation,devotional
+"Please find grand high impact hero entry melodies while I feel neutral, intensity intense",neutral,intense,Party;Mass,validation,powerful
+"Please find warm melodies expressing love and devotion while I feel motivated, intensity mild",motivated,mild,Party;Mass;Romantic,validation,romance
+"Please find memories of vintage melodies from the past while I feel motivated, intensity moderate",motivated,moderate,Party;Mass;Old,validation,classic
+"Please find lonely grief filled melodies while I feel motivated, intensity intense",motivated,intense,Sad;Party;Mass,validation,sad
+"Please find melodies for separation and emotional loss while I feel nostalgic, intensity mild",nostalgic,mild,Sad;Old,validation,heartbreak
+"Please find upbeat tunes for dancing at a celebration while I feel nostalgic, intensity moderate",nostalgic,moderate,Party;Mass;Old,validation,dance
+"Please find soft calming melodies for a quiet evening while I feel nostalgic, intensity intense",nostalgic,intense,Old;Devotional,validation,peaceful

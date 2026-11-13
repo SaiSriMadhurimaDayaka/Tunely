@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+*.py[cod]
+frontend/node_modules/
+frontend/dist/
+.env
+.env.*
+!.env.example
+frontend/.env.local
+*.log
+Untitled.ipynb
+data/*.sqlite3
+data/*_report.json
+data/original/spotifyIndian.zip
+data/original/saraga/

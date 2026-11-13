@@ -1,0 +1,433 @@
+preference,mood,intensity,genres,split,intent_group
+heartbreak and separation songs,happy,mild,Sad;Party,train,heartbreak
+songs about a broken heart,happy,mild,Sad;Party,train,heartbreak
+dance and celebration songs,happy,mild,Party;Mass,train,dance
+rhythmic party music,happy,mild,Party;Mass,train,dance
+peaceful gentle melodies,happy,mild,Party;Devotional,train,peaceful
+quiet music to unwind,happy,mild,Party;Devotional,train,peaceful
+devotional prayer songs,happy,mild,Party;Devotional,train,devotional
+spiritual worship music,happy,mild,Party;Devotional,train,devotional
+powerful hero elevation songs,happy,mild,Party;Mass,train,powerful
+bold mass action songs,happy,mild,Party;Mass,train,powerful
+romantic love melodies,happy,mild,Party;Romantic,train,romance
+tender songs about affection,happy,mild,Party;Romantic,train,romance
+old nostalgic melodies,happy,mild,Party;Old,train,classic
+classic songs from earlier years,happy,mild,Party;Old,train,classic
+emotional songs about loneliness,happy,mild,Sad;Party,train,sad
+grief and sorrow melodies,happy,mild,Sad;Party,train,sad
+heartbreak and separation songs,happy,moderate,Sad;Party,train,heartbreak
+songs about a broken heart,happy,moderate,Sad;Party,train,heartbreak
+dance and celebration songs,happy,moderate,Party;Mass,train,dance
+rhythmic party music,happy,moderate,Party;Mass,train,dance
+peaceful gentle melodies,happy,moderate,Party;Devotional,train,peaceful
+quiet music to unwind,happy,moderate,Party;Devotional,train,peaceful
+devotional prayer songs,happy,moderate,Party;Devotional,train,devotional
+spiritual worship music,happy,moderate,Party;Devotional,train,devotional
+powerful hero elevation songs,happy,moderate,Party;Mass,train,powerful
+bold mass action songs,happy,moderate,Party;Mass,train,powerful
+romantic love melodies,happy,moderate,Party;Romantic,train,romance
+tender songs about affection,happy,moderate,Party;Romantic,train,romance
+old nostalgic melodies,happy,moderate,Party;Old,train,classic
+classic songs from earlier years,happy,moderate,Party;Old,train,classic
+emotional songs about loneliness,happy,moderate,Sad;Party,train,sad
+grief and sorrow melodies,happy,moderate,Sad;Party,train,sad
+heartbreak and separation songs,happy,intense,Sad;Party,train,heartbreak
+songs about a broken heart,happy,intense,Sad;Party,train,heartbreak
+dance and celebration songs,happy,intense,Party;Mass,train,dance
+rhythmic party music,happy,intense,Party;Mass,train,dance
+peaceful gentle melodies,happy,intense,Party;Devotional,train,peaceful
+quiet music to unwind,happy,intense,Party;Devotional,train,peaceful
+devotional prayer songs,happy,intense,Party;Devotional,train,devotional
+spiritual worship music,happy,intense,Party;Devotional,train,devotional
+powerful hero elevation songs,happy,intense,Party;Mass,train,powerful
+bold mass action songs,happy,intense,Party;Mass,train,powerful
+romantic love melodies,happy,intense,Party;Romantic,train,romance
+tender songs about affection,happy,intense,Party;Romantic,train,romance
+old nostalgic melodies,happy,intense,Party;Old,train,classic
+classic songs from earlier years,happy,intense,Party;Old,train,classic
+emotional songs about loneliness,happy,intense,Sad;Party,train,sad
+grief and sorrow melodies,happy,intense,Sad;Party,train,sad
+heartbreak and separation songs,sad,mild,Sad,train,heartbreak
+songs about a broken heart,sad,mild,Sad,train,heartbreak
+dance and celebration songs,sad,mild,Sad;Party;Mass,train,dance
+rhythmic party music,sad,mild,Sad;Party;Mass,train,dance
+peaceful gentle melodies,sad,mild,Sad;Devotional,train,peaceful
+quiet music to unwind,sad,mild,Sad;Devotional,train,peaceful
+devotional prayer songs,sad,mild,Sad;Devotional,train,devotional
+spiritual worship music,sad,mild,Sad;Devotional,train,devotional
+powerful hero elevation songs,sad,mild,Sad;Party;Mass,train,powerful
+bold mass action songs,sad,mild,Sad;Party;Mass,train,powerful
+romantic love melodies,sad,mild,Sad;Romantic,train,romance
+tender songs about affection,sad,mild,Sad;Romantic,train,romance
+old nostalgic melodies,sad,mild,Sad;Old,train,classic
+classic songs from earlier years,sad,mild,Sad;Old,train,classic
+emotional songs about loneliness,sad,mild,Sad,train,sad
+grief and sorrow melodies,sad,mild,Sad,train,sad
+heartbreak and separation songs,sad,moderate,Sad,train,heartbreak
+songs about a broken heart,sad,moderate,Sad,train,heartbreak
+dance and celebration songs,sad,moderate,Sad;Party;Mass,train,dance
+rhythmic party music,sad,moderate,Sad;Party;Mass,train,dance
+peaceful gentle melodies,sad,moderate,Sad;Devotional,train,peaceful
+quiet music to unwind,sad,moderate,Sad;Devotional,train,peaceful
+devotional prayer songs,sad,moderate,Sad;Devotional,train,devotional
+spiritual worship music,sad,moderate,Sad;Devotional,train,devotional
+powerful hero elevation songs,sad,moderate,Sad;Party;Mass,train,powerful
+bold mass action songs,sad,moderate,Sad;Party;Mass,train,powerful
+romantic love melodies,sad,moderate,Sad;Romantic,train,romance
+tender songs about affection,sad,moderate,Sad;Romantic,train,romance
+old nostalgic melodies,sad,moderate,Sad;Old,train,classic
+classic songs from earlier years,sad,moderate,Sad;Old,train,classic
+emotional songs about loneliness,sad,moderate,Sad,train,sad
+grief and sorrow melodies,sad,moderate,Sad,train,sad
+heartbreak and separation songs,sad,intense,Sad,train,heartbreak
+songs about a broken heart,sad,intense,Sad,train,heartbreak
+dance and celebration songs,sad,intense,Sad;Party;Mass,train,dance
+rhythmic party music,sad,intense,Sad;Party;Mass,train,dance
+peaceful gentle melodies,sad,intense,Sad;Devotional,train,peaceful
+quiet music to unwind,sad,intense,Sad;Devotional,train,peaceful
+devotional prayer songs,sad,intense,Sad;Devotional,train,devotional
+spiritual worship music,sad,intense,Sad;Devotional,train,devotional
+powerful hero elevation songs,sad,intense,Sad;Party;Mass,train,powerful
+bold mass action songs,sad,intense,Sad;Party;Mass,train,powerful
+romantic love melodies,sad,intense,Sad;Romantic,train,romance
+tender songs about affection,sad,intense,Sad;Romantic,train,romance
+old nostalgic melodies,sad,intense,Sad;Old,train,classic
+classic songs from earlier years,sad,intense,Sad;Old,train,classic
+emotional songs about loneliness,sad,intense,Sad,train,sad
+grief and sorrow melodies,sad,intense,Sad,train,sad
+heartbreak and separation songs,calm,mild,Sad;Devotional,train,heartbreak
+songs about a broken heart,calm,mild,Sad;Devotional,train,heartbreak
+dance and celebration songs,calm,mild,Party;Mass;Devotional,train,dance
+rhythmic party music,calm,mild,Party;Mass;Devotional,train,dance
+peaceful gentle melodies,calm,mild,Devotional,train,peaceful
+quiet music to unwind,calm,mild,Devotional,train,peaceful
+devotional prayer songs,calm,mild,Devotional,train,devotional
+spiritual worship music,calm,mild,Devotional,train,devotional
+powerful hero elevation songs,calm,mild,Party;Mass;Devotional,train,powerful
+bold mass action songs,calm,mild,Party;Mass;Devotional,train,powerful
+romantic love melodies,calm,mild,Romantic;Devotional,train,romance
+tender songs about affection,calm,mild,Romantic;Devotional,train,romance
+old nostalgic melodies,calm,mild,Old;Devotional,train,classic
+classic songs from earlier years,calm,mild,Old;Devotional,train,classic
+emotional songs about loneliness,calm,mild,Sad;Devotional,train,sad
+grief and sorrow melodies,calm,mild,Sad;Devotional,train,sad
+heartbreak and separation songs,calm,moderate,Sad;Devotional,train,heartbreak
+songs about a broken heart,calm,moderate,Sad;Devotional,train,heartbreak
+dance and celebration songs,calm,moderate,Party;Mass;Devotional,train,dance
+rhythmic party music,calm,moderate,Party;Mass;Devotional,train,dance
+peaceful gentle melodies,calm,moderate,Devotional,train,peaceful
+quiet music to unwind,calm,moderate,Devotional,train,peaceful
+devotional prayer songs,calm,moderate,Devotional,train,devotional
+spiritual worship music,calm,moderate,Devotional,train,devotional
+powerful hero elevation songs,calm,moderate,Party;Mass;Devotional,train,powerful
+bold mass action songs,calm,moderate,Party;Mass;Devotional,train,powerful
+romantic love melodies,calm,moderate,Romantic;Devotional,train,romance
+tender songs about affection,calm,moderate,Romantic;Devotional,train,romance
+old nostalgic melodies,calm,moderate,Old;Devotional,train,classic
+classic songs from earlier years,calm,moderate,Old;Devotional,train,classic
+emotional songs about loneliness,calm,moderate,Sad;Devotional,train,sad
+grief and sorrow melodies,calm,moderate,Sad;Devotional,train,sad
+heartbreak and separation songs,calm,intense,Sad;Devotional,train,heartbreak
+songs about a broken heart,calm,intense,Sad;Devotional,train,heartbreak
+dance and celebration songs,calm,intense,Party;Mass;Devotional,train,dance
+rhythmic party music,calm,intense,Party;Mass;Devotional,train,dance
+peaceful gentle melodies,calm,intense,Devotional,train,peaceful
+quiet music to unwind,calm,intense,Devotional,train,peaceful
+devotional prayer songs,calm,intense,Devotional,train,devotional
+spiritual worship music,calm,intense,Devotional,train,devotional
+powerful hero elevation songs,calm,intense,Party;Mass;Devotional,train,powerful
+bold mass action songs,calm,intense,Party;Mass;Devotional,train,powerful
+romantic love melodies,calm,intense,Romantic;Devotional,train,romance
+tender songs about affection,calm,intense,Romantic;Devotional,train,romance
+old nostalgic melodies,calm,intense,Old;Devotional,train,classic
+classic songs from earlier years,calm,intense,Old;Devotional,train,classic
+emotional songs about loneliness,calm,intense,Sad;Devotional,train,sad
+grief and sorrow melodies,calm,intense,Sad;Devotional,train,sad
+heartbreak and separation songs,energetic,mild,Sad;Party;Mass,train,heartbreak
+songs about a broken heart,energetic,mild,Sad;Party;Mass,train,heartbreak
+dance and celebration songs,energetic,mild,Party;Mass,train,dance
+rhythmic party music,energetic,mild,Party;Mass,train,dance
+peaceful gentle melodies,energetic,mild,Party;Mass;Devotional,train,peaceful
+quiet music to unwind,energetic,mild,Party;Mass;Devotional,train,peaceful
+devotional prayer songs,energetic,mild,Party;Mass;Devotional,train,devotional
+spiritual worship music,energetic,mild,Party;Mass;Devotional,train,devotional
+powerful hero elevation songs,energetic,mild,Party;Mass,train,powerful
+bold mass action songs,energetic,mild,Party;Mass,train,powerful
+romantic love melodies,energetic,mild,Party;Mass;Romantic,train,romance
+tender songs about affection,energetic,mild,Party;Mass;Romantic,train,romance
+old nostalgic melodies,energetic,mild,Party;Mass;Old,train,classic
+classic songs from earlier years,energetic,mild,Party;Mass;Old,train,classic
+emotional songs about loneliness,energetic,mild,Sad;Party;Mass,train,sad
+grief and sorrow melodies,energetic,mild,Sad;Party;Mass,train,sad
+heartbreak and separation songs,energetic,moderate,Sad;Party;Mass,train,heartbreak
+songs about a broken heart,energetic,moderate,Sad;Party;Mass,train,heartbreak
+dance and celebration songs,energetic,moderate,Party;Mass,train,dance
+rhythmic party music,energetic,moderate,Party;Mass,train,dance
+peaceful gentle melodies,energetic,moderate,Party;Mass;Devotional,train,peaceful
+quiet music to unwind,energetic,moderate,Party;Mass;Devotional,train,peaceful
+devotional prayer songs,energetic,moderate,Party;Mass;Devotional,train,devotional
+spiritual worship music,energetic,moderate,Party;Mass;Devotional,train,devotional
+powerful hero elevation songs,energetic,moderate,Party;Mass,train,powerful
+bold mass action songs,energetic,moderate,Party;Mass,train,powerful
+romantic love melodies,energetic,moderate,Party;Mass;Romantic,train,romance
+tender songs about affection,energetic,moderate,Party;Mass;Romantic,train,romance
+old nostalgic melodies,energetic,moderate,Party;Mass;Old,train,classic
+classic songs from earlier years,energetic,moderate,Party;Mass;Old,train,classic
+emotional songs about loneliness,energetic,moderate,Sad;Party;Mass,train,sad
+grief and sorrow melodies,energetic,moderate,Sad;Party;Mass,train,sad
+heartbreak and separation songs,energetic,intense,Sad;Party;Mass,train,heartbreak
+songs about a broken heart,energetic,intense,Sad;Party;Mass,train,heartbreak
+dance and celebration songs,energetic,intense,Party;Mass,train,dance
+rhythmic party music,energetic,intense,Party;Mass,train,dance
+peaceful gentle melodies,energetic,intense,Party;Mass;Devotional,train,peaceful
+quiet music to unwind,energetic,intense,Party;Mass;Devotional,train,peaceful
+devotional prayer songs,energetic,intense,Party;Mass;Devotional,train,devotional
+spiritual worship music,energetic,intense,Party;Mass;Devotional,train,devotional
+powerful hero elevation songs,energetic,intense,Party;Mass,train,powerful
+bold mass action songs,energetic,intense,Party;Mass,train,powerful
+romantic love melodies,energetic,intense,Party;Mass;Romantic,train,romance
+tender songs about affection,energetic,intense,Party;Mass;Romantic,train,romance
+old nostalgic melodies,energetic,intense,Party;Mass;Old,train,classic
+classic songs from earlier years,energetic,intense,Party;Mass;Old,train,classic
+emotional songs about loneliness,energetic,intense,Sad;Party;Mass,train,sad
+grief and sorrow melodies,energetic,intense,Sad;Party;Mass,train,sad
+heartbreak and separation songs,stressed,mild,Sad;Devotional,train,heartbreak
+songs about a broken heart,stressed,mild,Sad;Devotional,train,heartbreak
+dance and celebration songs,stressed,mild,Party;Mass;Devotional,train,dance
+rhythmic party music,stressed,mild,Party;Mass;Devotional,train,dance
+peaceful gentle melodies,stressed,mild,Devotional,train,peaceful
+quiet music to unwind,stressed,mild,Devotional,train,peaceful
+devotional prayer songs,stressed,mild,Devotional,train,devotional
+spiritual worship music,stressed,mild,Devotional,train,devotional
+powerful hero elevation songs,stressed,mild,Party;Mass;Devotional,train,powerful
+bold mass action songs,stressed,mild,Party;Mass;Devotional,train,powerful
+romantic love melodies,stressed,mild,Romantic;Devotional,train,romance
+tender songs about affection,stressed,mild,Romantic;Devotional,train,romance
+old nostalgic melodies,stressed,mild,Old;Devotional,train,classic
+classic songs from earlier years,stressed,mild,Old;Devotional,train,classic
+emotional songs about loneliness,stressed,mild,Sad;Devotional,train,sad
+grief and sorrow melodies,stressed,mild,Sad;Devotional,train,sad
+heartbreak and separation songs,stressed,moderate,Sad;Devotional,train,heartbreak
+songs about a broken heart,stressed,moderate,Sad;Devotional,train,heartbreak
+dance and celebration songs,stressed,moderate,Party;Mass;Devotional,train,dance
+rhythmic party music,stressed,moderate,Party;Mass;Devotional,train,dance
+peaceful gentle melodies,stressed,moderate,Devotional,train,peaceful
+quiet music to unwind,stressed,moderate,Devotional,train,peaceful
+devotional prayer songs,stressed,moderate,Devotional,train,devotional
+spiritual worship music,stressed,moderate,Devotional,train,devotional
+powerful hero elevation songs,stressed,moderate,Party;Mass;Devotional,train,powerful
+bold mass action songs,stressed,moderate,Party;Mass;Devotional,train,powerful
+romantic love melodies,stressed,moderate,Romantic;Devotional,train,romance
+tender songs about affection,stressed,moderate,Romantic;Devotional,train,romance
+old nostalgic melodies,stressed,moderate,Old;Devotional,train,classic
+classic songs from earlier years,stressed,moderate,Old;Devotional,train,classic
+emotional songs about loneliness,stressed,moderate,Sad;Devotional,train,sad
+grief and sorrow melodies,stressed,moderate,Sad;Devotional,train,sad
+heartbreak and separation songs,stressed,intense,Sad;Devotional,train,heartbreak
+songs about a broken heart,stressed,intense,Sad;Devotional,train,heartbreak
+dance and celebration songs,stressed,intense,Party;Mass;Devotional,train,dance
+rhythmic party music,stressed,intense,Party;Mass;Devotional,train,dance
+peaceful gentle melodies,stressed,intense,Devotional,train,peaceful
+quiet music to unwind,stressed,intense,Devotional,train,peaceful
+devotional prayer songs,stressed,intense,Devotional,train,devotional
+spiritual worship music,stressed,intense,Devotional,train,devotional
+powerful hero elevation songs,stressed,intense,Party;Mass;Devotional,train,powerful
+bold mass action songs,stressed,intense,Party;Mass;Devotional,train,powerful
+romantic love melodies,stressed,intense,Romantic;Devotional,train,romance
+tender songs about affection,stressed,intense,Romantic;Devotional,train,romance
+old nostalgic melodies,stressed,intense,Old;Devotional,train,classic
+classic songs from earlier years,stressed,intense,Old;Devotional,train,classic
+emotional songs about loneliness,stressed,intense,Sad;Devotional,train,sad
+grief and sorrow melodies,stressed,intense,Sad;Devotional,train,sad
+heartbreak and separation songs,romantic,mild,Sad;Romantic,train,heartbreak
+songs about a broken heart,romantic,mild,Sad;Romantic,train,heartbreak
+dance and celebration songs,romantic,mild,Party;Mass;Romantic,train,dance
+rhythmic party music,romantic,mild,Party;Mass;Romantic,train,dance
+peaceful gentle melodies,romantic,mild,Romantic;Devotional,train,peaceful
+quiet music to unwind,romantic,mild,Romantic;Devotional,train,peaceful
+devotional prayer songs,romantic,mild,Romantic;Devotional,train,devotional
+spiritual worship music,romantic,mild,Romantic;Devotional,train,devotional
+powerful hero elevation songs,romantic,mild,Party;Mass;Romantic,train,powerful
+bold mass action songs,romantic,mild,Party;Mass;Romantic,train,powerful
+romantic love melodies,romantic,mild,Romantic,train,romance
+tender songs about affection,romantic,mild,Romantic,train,romance
+old nostalgic melodies,romantic,mild,Romantic;Old,train,classic
+classic songs from earlier years,romantic,mild,Romantic;Old,train,classic
+emotional songs about loneliness,romantic,mild,Sad;Romantic,train,sad
+grief and sorrow melodies,romantic,mild,Sad;Romantic,train,sad
+heartbreak and separation songs,romantic,moderate,Sad;Romantic,train,heartbreak
+songs about a broken heart,romantic,moderate,Sad;Romantic,train,heartbreak
+dance and celebration songs,romantic,moderate,Party;Mass;Romantic,train,dance
+rhythmic party music,romantic,moderate,Party;Mass;Romantic,train,dance
+peaceful gentle melodies,romantic,moderate,Romantic;Devotional,train,peaceful
+quiet music to unwind,romantic,moderate,Romantic;Devotional,train,peaceful
+devotional prayer songs,romantic,moderate,Romantic;Devotional,train,devotional
+spiritual worship music,romantic,moderate,Romantic;Devotional,train,devotional
+powerful hero elevation songs,romantic,moderate,Party;Mass;Romantic,train,powerful
+bold mass action songs,romantic,moderate,Party;Mass;Romantic,train,powerful
+romantic love melodies,romantic,moderate,Romantic,train,romance
+tender songs about affection,romantic,moderate,Romantic,train,romance
+old nostalgic melodies,romantic,moderate,Romantic;Old,train,classic
+classic songs from earlier years,romantic,moderate,Romantic;Old,train,classic
+emotional songs about loneliness,romantic,moderate,Sad;Romantic,train,sad
+grief and sorrow melodies,romantic,moderate,Sad;Romantic,train,sad
+heartbreak and separation songs,romantic,intense,Sad;Romantic,train,heartbreak
+songs about a broken heart,romantic,intense,Sad;Romantic,train,heartbreak
+dance and celebration songs,romantic,intense,Party;Mass;Romantic,train,dance
+rhythmic party music,romantic,intense,Party;Mass;Romantic,train,dance
+peaceful gentle melodies,romantic,intense,Romantic;Devotional,train,peaceful
+quiet music to unwind,romantic,intense,Romantic;Devotional,train,peaceful
+devotional prayer songs,romantic,intense,Romantic;Devotional,train,devotional
+spiritual worship music,romantic,intense,Romantic;Devotional,train,devotional
+powerful hero elevation songs,romantic,intense,Party;Mass;Romantic,train,powerful
+bold mass action songs,romantic,intense,Party;Mass;Romantic,train,powerful
+romantic love melodies,romantic,intense,Romantic,train,romance
+tender songs about affection,romantic,intense,Romantic,train,romance
+old nostalgic melodies,romantic,intense,Romantic;Old,train,classic
+classic songs from earlier years,romantic,intense,Romantic;Old,train,classic
+emotional songs about loneliness,romantic,intense,Sad;Romantic,train,sad
+grief and sorrow melodies,romantic,intense,Sad;Romantic,train,sad
+heartbreak and separation songs,neutral,mild,Sad,train,heartbreak
+songs about a broken heart,neutral,mild,Sad,train,heartbreak
+dance and celebration songs,neutral,mild,Party;Mass,train,dance
+rhythmic party music,neutral,mild,Party;Mass,train,dance
+peaceful gentle melodies,neutral,mild,Devotional,train,peaceful
+quiet music to unwind,neutral,mild,Devotional,train,peaceful
+devotional prayer songs,neutral,mild,Devotional,train,devotional
+spiritual worship music,neutral,mild,Devotional,train,devotional
+powerful hero elevation songs,neutral,mild,Party;Mass,train,powerful
+bold mass action songs,neutral,mild,Party;Mass,train,powerful
+romantic love melodies,neutral,mild,Romantic,train,romance
+tender songs about affection,neutral,mild,Romantic,train,romance
+old nostalgic melodies,neutral,mild,Old,train,classic
+classic songs from earlier years,neutral,mild,Old,train,classic
+emotional songs about loneliness,neutral,mild,Sad,train,sad
+grief and sorrow melodies,neutral,mild,Sad,train,sad
+heartbreak and separation songs,neutral,moderate,Sad,train,heartbreak
+songs about a broken heart,neutral,moderate,Sad,train,heartbreak
+dance and celebration songs,neutral,moderate,Party;Mass,train,dance
+rhythmic party music,neutral,moderate,Party;Mass,train,dance
+peaceful gentle melodies,neutral,moderate,Devotional,train,peaceful
+quiet music to unwind,neutral,moderate,Devotional,train,peaceful
+devotional prayer songs,neutral,moderate,Devotional,train,devotional
+spiritual worship music,neutral,moderate,Devotional,train,devotional
+powerful hero elevation songs,neutral,moderate,Party;Mass,train,powerful
+bold mass action songs,neutral,moderate,Party;Mass,train,powerful
+romantic love melodies,neutral,moderate,Romantic,train,romance
+tender songs about affection,neutral,moderate,Romantic,train,romance
+old nostalgic melodies,neutral,moderate,Old,train,classic
+classic songs from earlier years,neutral,moderate,Old,train,classic
+emotional songs about loneliness,neutral,moderate,Sad,train,sad
+grief and sorrow melodies,neutral,moderate,Sad,train,sad
+heartbreak and separation songs,neutral,intense,Sad,train,heartbreak
+songs about a broken heart,neutral,intense,Sad,train,heartbreak
+dance and celebration songs,neutral,intense,Party;Mass,train,dance
+rhythmic party music,neutral,intense,Party;Mass,train,dance
+peaceful gentle melodies,neutral,intense,Devotional,train,peaceful
+quiet music to unwind,neutral,intense,Devotional,train,peaceful
+devotional prayer songs,neutral,intense,Devotional,train,devotional
+spiritual worship music,neutral,intense,Devotional,train,devotional
+powerful hero elevation songs,neutral,intense,Party;Mass,train,powerful
+bold mass action songs,neutral,intense,Party;Mass,train,powerful
+romantic love melodies,neutral,intense,Romantic,train,romance
+tender songs about affection,neutral,intense,Romantic,train,romance
+old nostalgic melodies,neutral,intense,Old,train,classic
+classic songs from earlier years,neutral,intense,Old,train,classic
+emotional songs about loneliness,neutral,intense,Sad,train,sad
+grief and sorrow melodies,neutral,intense,Sad,train,sad
+heartbreak and separation songs,motivated,mild,Sad;Party;Mass,train,heartbreak
+songs about a broken heart,motivated,mild,Sad;Party;Mass,train,heartbreak
+dance and celebration songs,motivated,mild,Party;Mass,train,dance
+rhythmic party music,motivated,mild,Party;Mass,train,dance
+peaceful gentle melodies,motivated,mild,Party;Mass;Devotional,train,peaceful
+quiet music to unwind,motivated,mild,Party;Mass;Devotional,train,peaceful
+devotional prayer songs,motivated,mild,Party;Mass;Devotional,train,devotional
+spiritual worship music,motivated,mild,Party;Mass;Devotional,train,devotional
+powerful hero elevation songs,motivated,mild,Party;Mass,train,powerful
+bold mass action songs,motivated,mild,Party;Mass,train,powerful
+romantic love melodies,motivated,mild,Party;Mass;Romantic,train,romance
+tender songs about affection,motivated,mild,Party;Mass;Romantic,train,romance
+old nostalgic melodies,motivated,mild,Party;Mass;Old,train,classic
+classic songs from earlier years,motivated,mild,Party;Mass;Old,train,classic
+emotional songs about loneliness,motivated,mild,Sad;Party;Mass,train,sad
+grief and sorrow melodies,motivated,mild,Sad;Party;Mass,train,sad
+heartbreak and separation songs,motivated,moderate,Sad;Party;Mass,train,heartbreak
+songs about a broken heart,motivated,moderate,Sad;Party;Mass,train,heartbreak
+dance and celebration songs,motivated,moderate,Party;Mass,train,dance
+rhythmic party music,motivated,moderate,Party;Mass,train,dance
+peaceful gentle melodies,motivated,moderate,Party;Mass;Devotional,train,peaceful
+quiet music to unwind,motivated,moderate,Party;Mass;Devotional,train,peaceful
+devotional prayer songs,motivated,moderate,Party;Mass;Devotional,train,devotional
+spiritual worship music,motivated,moderate,Party;Mass;Devotional,train,devotional
+powerful hero elevation songs,motivated,moderate,Party;Mass,train,powerful
+bold mass action songs,motivated,moderate,Party;Mass,train,powerful
+romantic love melodies,motivated,moderate,Party;Mass;Romantic,train,romance
+tender songs about affection,motivated,moderate,Party;Mass;Romantic,train,romance
+old nostalgic melodies,motivated,moderate,Party;Mass;Old,train,classic
+classic songs from earlier years,motivated,moderate,Party;Mass;Old,train,classic
+emotional songs about loneliness,motivated,moderate,Sad;Party;Mass,train,sad
+grief and sorrow melodies,motivated,moderate,Sad;Party;Mass,train,sad
+heartbreak and separation songs,motivated,intense,Sad;Party;Mass,train,heartbreak
+songs about a broken heart,motivated,intense,Sad;Party;Mass,train,heartbreak
+dance and celebration songs,motivated,intense,Party;Mass,train,dance
+rhythmic party music,motivated,intense,Party;Mass,train,dance
+peaceful gentle melodies,motivated,intense,Party;Mass;Devotional,train,peaceful
+quiet music to unwind,motivated,intense,Party;Mass;Devotional,train,peaceful
+devotional prayer songs,motivated,intense,Party;Mass;Devotional,train,devotional
+spiritual worship music,motivated,intense,Party;Mass;Devotional,train,devotional
+powerful hero elevation songs,motivated,intense,Party;Mass,train,powerful
+bold mass action songs,motivated,intense,Party;Mass,train,powerful
+romantic love melodies,motivated,intense,Party;Mass;Romantic,train,romance
+tender songs about affection,motivated,intense,Party;Mass;Romantic,train,romance
+old nostalgic melodies,motivated,intense,Party;Mass;Old,train,classic
+classic songs from earlier years,motivated,intense,Party;Mass;Old,train,classic
+emotional songs about loneliness,motivated,intense,Sad;Party;Mass,train,sad
+grief and sorrow melodies,motivated,intense,Sad;Party;Mass,train,sad
+heartbreak and separation songs,nostalgic,mild,Sad;Old,train,heartbreak
+songs about a broken heart,nostalgic,mild,Sad;Old,train,heartbreak
+dance and celebration songs,nostalgic,mild,Party;Mass;Old,train,dance
+rhythmic party music,nostalgic,mild,Party;Mass;Old,train,dance
+peaceful gentle melodies,nostalgic,mild,Old;Devotional,train,peaceful
+quiet music to unwind,nostalgic,mild,Old;Devotional,train,peaceful
+devotional prayer songs,nostalgic,mild,Old;Devotional,train,devotional
+spiritual worship music,nostalgic,mild,Old;Devotional,train,devotional
+powerful hero elevation songs,nostalgic,mild,Party;Mass;Old,train,powerful
+bold mass action songs,nostalgic,mild,Party;Mass;Old,train,powerful
+romantic love melodies,nostalgic,mild,Romantic;Old,train,romance
+tender songs about affection,nostalgic,mild,Romantic;Old,train,romance
+old nostalgic melodies,nostalgic,mild,Old,train,classic
+classic songs from earlier years,nostalgic,mild,Old,train,classic
+emotional songs about loneliness,nostalgic,mild,Sad;Old,train,sad
+grief and sorrow melodies,nostalgic,mild,Sad;Old,train,sad
+heartbreak and separation songs,nostalgic,moderate,Sad;Old,train,heartbreak
+songs about a broken heart,nostalgic,moderate,Sad;Old,train,heartbreak
+dance and celebration songs,nostalgic,moderate,Party;Mass;Old,train,dance
+rhythmic party music,nostalgic,moderate,Party;Mass;Old,train,dance
+peaceful gentle melodies,nostalgic,moderate,Old;Devotional,train,peaceful
+quiet music to unwind,nostalgic,moderate,Old;Devotional,train,peaceful
+devotional prayer songs,nostalgic,moderate,Old;Devotional,train,devotional
+spiritual worship music,nostalgic,moderate,Old;Devotional,train,devotional
+powerful hero elevation songs,nostalgic,moderate,Party;Mass;Old,train,powerful
+bold mass action songs,nostalgic,moderate,Party;Mass;Old,train,powerful
+romantic love melodies,nostalgic,moderate,Romantic;Old,train,romance
+tender songs about affection,nostalgic,moderate,Romantic;Old,train,romance
+old nostalgic melodies,nostalgic,moderate,Old,train,classic
+classic songs from earlier years,nostalgic,moderate,Old,train,classic
+emotional songs about loneliness,nostalgic,moderate,Sad;Old,train,sad
+grief and sorrow melodies,nostalgic,moderate,Sad;Old,train,sad
+heartbreak and separation songs,nostalgic,intense,Sad;Old,train,heartbreak
+songs about a broken heart,nostalgic,intense,Sad;Old,train,heartbreak
+dance and celebration songs,nostalgic,intense,Party;Mass;Old,train,dance
+rhythmic party music,nostalgic,intense,Party;Mass;Old,train,dance
+peaceful gentle melodies,nostalgic,intense,Old;Devotional,train,peaceful
+quiet music to unwind,nostalgic,intense,Old;Devotional,train,peaceful
+devotional prayer songs,nostalgic,intense,Old;Devotional,train,devotional
+spiritual worship music,nostalgic,intense,Old;Devotional,train,devotional
+powerful hero elevation songs,nostalgic,intense,Party;Mass;Old,train,powerful
+bold mass action songs,nostalgic,intense,Party;Mass;Old,train,powerful
+romantic love melodies,nostalgic,intense,Romantic;Old,train,romance
+tender songs about affection,nostalgic,intense,Romantic;Old,train,romance
+old nostalgic melodies,nostalgic,intense,Old,train,classic
+classic songs from earlier years,nostalgic,intense,Old,train,classic
+emotional songs about loneliness,nostalgic,intense,Sad;Old,train,sad
+grief and sorrow melodies,nostalgic,intense,Sad;Old,train,sad

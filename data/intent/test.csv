@@ -1,0 +1,28 @@
+preference,mood,intensity,genres,split,intent_group
+Looking for soft calming music for a quiet evening with mild intensity,happy,mild,Party;Devotional,test,peaceful
+Looking for songs of faith and prayer with moderate intensity,happy,moderate,Party;Devotional,test,devotional
+Looking for grand high impact hero entry music with intense intensity,happy,intense,Party;Mass,test,powerful
+Looking for warm melodies expressing love and devotion with mild intensity,sad,mild,Sad;Romantic,test,romance
+Looking for memories of vintage songs from the past with moderate intensity,sad,moderate,Sad;Old,test,classic
+Looking for lonely grief filled music with intense intensity,sad,intense,Sad,test,sad
+Looking for music for separation and emotional loss with mild intensity,calm,mild,Sad;Devotional,test,heartbreak
+Looking for upbeat tracks for dancing at a celebration with moderate intensity,calm,moderate,Party;Mass;Devotional,test,dance
+Looking for soft calming music for a quiet evening with intense intensity,calm,intense,Devotional,test,peaceful
+Looking for songs of faith and prayer with mild intensity,energetic,mild,Party;Mass;Devotional,test,devotional
+Looking for grand high impact hero entry music with moderate intensity,energetic,moderate,Party;Mass,test,powerful
+Looking for warm melodies expressing love and devotion with intense intensity,energetic,intense,Party;Mass;Romantic,test,romance
+Looking for memories of vintage songs from the past with mild intensity,stressed,mild,Old;Devotional,test,classic
+Looking for lonely grief filled music with moderate intensity,stressed,moderate,Sad;Devotional,test,sad
+Looking for music for separation and emotional loss with intense intensity,stressed,intense,Sad;Devotional,test,heartbreak
+Looking for upbeat tracks for dancing at a celebration with mild intensity,romantic,mild,Party;Mass;Romantic,test,dance
+Looking for soft calming music for a quiet evening with moderate intensity,romantic,moderate,Romantic;Devotional,test,peaceful
+Looking for songs of faith and prayer with intense intensity,romantic,intense,Romantic;Devotional,test,devotional
+Looking for grand high impact hero entry music with mild intensity,neutral,mild,Party;Mass,test,powerful
+Looking for warm melodies expressing love and devotion with moderate intensity,neutral,moderate,Romantic,test,romance
+Looking for memories of vintage songs from the past with intense intensity,neutral,intense,Old,test,classic
+Looking for lonely grief filled music with mild intensity,motivated,mild,Sad;Party;Mass,test,sad
+Looking for music for separation and emotional loss with moderate intensity,motivated,moderate,Sad;Party;Mass,test,heartbreak
+Looking for upbeat tracks for dancing at a celebration with intense intensity,motivated,intense,Party;Mass,test,dance
+Looking for soft calming music for a quiet evening with mild intensity,nostalgic,mild,Old;Devotional,test,peaceful
+Looking for songs of faith and prayer with moderate intensity,nostalgic,moderate,Old;Devotional,test,devotional
+Looking for grand high impact hero entry music with intense intensity,nostalgic,intense,Party;Mass;Old,test,powerful
